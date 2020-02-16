@@ -1,5 +1,7 @@
 # Kafka clients demo
 
+[![Alt text](https://img.youtube.com/vi/W7aUOgCTyOg/0.jpg)](https://www.youtube.com/watch?v=W7aUOgCTyOg)
+
 Start by creating namespace `skupper-demo` on all clusters:
 
 ```
