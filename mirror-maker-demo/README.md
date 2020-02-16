@@ -1,5 +1,7 @@
 # Kafka Mirror Maker demo
 
+[![Alt text](https://img.youtube.com/vi/Zz-5WUNh_ik/0.jpg)](https://www.youtube.com/watch?v=Zz-5WUNh_ik)
+
 ## Install Kafka cluster in Europe
 
 Start by creating namespace `skupper-demo` on cluster in eu-west-1:
